@@ -1,0 +1,1 @@
+This code is taken from https://www.sitepoint.com/frameworkless-web-components-introduction/ for learning purposes
